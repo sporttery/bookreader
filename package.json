@@ -1,0 +1,14 @@
+{
+  "name": "bookreader",
+  "version": "1.0.0",
+  "description": "抓取小说,到百度平台转换成声音",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "david.chang",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^2.1.0"
+  }
+}
